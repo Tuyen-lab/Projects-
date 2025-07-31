@@ -1,6 +1,6 @@
 # Projects - Le Thi My Tuyen - UEL YEAR 3 - Semeter 3rd
 As a student in MIS, I had done a lot of projects in my learning journey, and in this respo includes some of us that I want to save and share then get feedback to relect and develop. 
-Welcome all guys contact me to know more about what I did in the projects or show me what are unreasonable in my report. => stuoercoursesenronment@gmail.com
+Welcome all guys contact me to know more about what I did in the projects or show me what are unreasonable in my report. => stuoercoursesenronments@gmail.com
 
 **Project 1: Strategic 3-Year IFRS Transition Plan using SAP S/4HANA**
 Link project report: https://github.com/Tuyen-lab/Projects-/blob/main/IFRS%20transition%20planning.pdf 
