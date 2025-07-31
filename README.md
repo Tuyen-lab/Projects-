@@ -1,4 +1,4 @@
-# Projects - Le Thi My Tuyen - UEL YEAR 3 - Semeter 3rd
+# Projects - Le Thi My Tuyen - UEL YEAR 3 - Semester 3rd
 As a student in MIS, I had done a lot of projects in my learning journey, and in this respo includes some of us that I want to save and share then get feedback to relect and develop. 
 Welcome all guys contact me to know more about what I did in the projects or show me what are unreasonable in my report. => stuoercoursesenronments@gmail.com
 
