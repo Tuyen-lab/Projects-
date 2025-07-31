@@ -3,6 +3,7 @@ As a student in MIS, I had done a lot of projects in my learning journey, and in
 Welcome all guys contact me to know more about what I did in the projects or show me what are unreasonable in my report. => stuoercoursesenronment@gmail.com
 
 **Project 1: Strategic 3-Year IFRS Transition Plan using SAP S/4HANA**
+Link project report: https://github.com/Tuyen-lab/Projects-/blob/main/IFRS%20transition%20planning.pdf 
 
 📋 **Description**
 This project outlines a strategic roadmap for transitioning from Vietnam Accounting Standards (VAS) to International Financial Reporting Standards (IFRS) using SAP S/4HANA. The project was developed as part of an observation internship program and is built upon Agile Scrum methodology to ensure iterative and flexible deployment.
@@ -51,6 +52,7 @@ Date: July 2025
 
 
 **PROJECT 2: ERP Business Process Integration Project – BluetoothWave Company**
+
 **📋 Description**
 This SAP S/4HANA project simulates the ERP configuration and end-to-end business processes of BluetoothWave, a student-led startup producing Bluetooth headphones. The project integrates business operations from procurement and production to sales and financial accounting using SAP modules.
 
