@@ -53,10 +53,14 @@ Date: July 2025
 
 **PROJECT 2: ERP Business Process Integration Project – BluetoothWave Company**
 
+link project report: https://github.com/Tuyen-lab/Projects-/blob/main/Do%20an%20ERP%202_Nhom_HLT_406.pdf
+
 **📋 Description**
+
 This SAP S/4HANA project simulates the ERP configuration and end-to-end business processes of BluetoothWave, a student-led startup producing Bluetooth headphones. The project integrates business operations from procurement and production to sales and financial accounting using SAP modules.
 
 **🏢 Company Scenario**
+
 Company: BluetoothWave Co.
 
 Product: Modular wireless headphones
@@ -64,6 +68,7 @@ Product: Modular wireless headphones
 Business areas: R&D, manufacturing, supply chain, finance, sales, customer service
 
 **🛠️ Project Scope**
+
 Configured ERP system using:
 
 FI (Financial Accounting)
@@ -81,6 +86,7 @@ Designed master data (materials, BOM, customers, vendors)
 Executed core processes: Purchase → Production → Sales → Financial reporting
 
 **🧱 Structure**
+
 Ch.1: Market research & company overview
 
 Ch.2: Financial configuration
@@ -90,7 +96,9 @@ Ch.3: Procurement process setup & testing
 Ch.4: Sales process setup & simulation
 
 Ch.5: Conclusion & project reflection
-🎓 Team
+
+**🎓 Team**
+
 👩‍💼 Le Thi My Tuyen – Team Lead
 
 👨‍💻 Nguyen Huu Loc
